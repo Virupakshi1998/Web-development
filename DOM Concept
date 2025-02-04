@@ -3,3 +3,13 @@ the user to click on things on our website, and then update the HTML and CSS cod
 
 That's impossible!
 
+Now this is the problem that the DOM or the Document Object Model solves.
+
+DOM - Document Object Model
+      It is a Javascript object(object{}), that represents the page you see in a web browser and provides you with an API to interact with it.
+      
+      Refer to this yt link: https://www.youtube.com/watch?v=NO5kUNxGIu0
+
+      Refer this yt video, which explained in clear what we could achieve and purpose of using DOM: https://www.youtube.com/watch?v=bu564DhPTKw&t=1s
+
+      

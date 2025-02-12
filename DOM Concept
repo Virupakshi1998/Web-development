@@ -1,0 +1,15 @@
+when a user clicks on a button, we'll need to respond to that by changing the content or the appearance of our website, but once our website is live on the Internet, we can't sit there and wait for
+the user to click on things on our website, and then update the HTML and CSS code, and then reload their web page.
+
+That's impossible!
+
+Now this is the problem that the DOM or the Document Object Model solves.
+
+DOM - Document Object Model
+      It is a Javascript object(object{}), that represents the page you see in a web browser and provides you with an API to interact with it.
+      
+      Refer to this yt link: https://www.youtube.com/watch?v=NO5kUNxGIu0
+
+      Refer this yt video, which explained in clear what we could achieve and purpose of using DOM: https://www.youtube.com/watch?v=bu564DhPTKw&t=1s
+
+      

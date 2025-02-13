@@ -13,7 +13,7 @@
 
 ## The output screenshot looks like this
 
-![Image](DiceGame.png)
+![](DiceGame.png)
 
 ## If you see in "index.js" file, line 7, 22 & 25, we notice we used a similar function but serves different purpose, "querySelectorAll & querySelector", let's understand that
 

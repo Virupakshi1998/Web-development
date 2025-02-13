@@ -1,8 +1,8 @@
-var randomNumber1 = Math.floor(Math.random() * 6) + 1;  //1-6, used Math.random() to first generate a random number and used Math.floor() to round of the decimal point.
+var randomNumber1 = Math.floor(Math.random() * 6) + 1;  //1-6, used Math.random() to first generate a random number and used Math.floor() to round of the 
+                                                        // decimal point.
+var randomDiceImage = "dice"+randomNumber1+".png";      // dice1.png - dice6.png
 
-var randomDiceImage = "dice"+randomNumber1+".png"; // dice1.png - dice6.png
-
-var randomImageSource = "images/"+randomDiceImage; //images/dice1.png - images/dice6.png
+var randomImageSource = "images/"+randomDiceImage;     //images/dice1.png - images/dice6.png
 
 var imageleft = document.querySelectorAll("img")[0];
 

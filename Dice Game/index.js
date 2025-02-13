@@ -12,7 +12,8 @@ var imageleft = document.querySelectorAll("img")[0];   // Here If you see in htm
 imageleft.setAttribute("src", randomImageSource);     // using logic built in "randomImageSource".
 
 
-var randomNumber2 = Math.floor(Math.random() * 6) + 1;
+var randomNumber2 = Math.floor(Math.random() * 6) + 1; //Now repeating the same process start from random number creation, and so what we did for left image/player 1,
+                                                      //need to do the same thing for right image/player2.
 
 var randomImageSource2 = "images/dice" + randomNumber2+".png";
 
@@ -20,7 +21,7 @@ var imageright = document.querySelectorAll("img")[1];
 
 imageright.setAttribute("src", randomImageSource2);
 
-if(randomNumber1 > randomNumber2){
+if(randomNumber1 > randomNumber2){                             // 
     document.querySelector("h1").innerHTML = "Player 1 wins!";
 }
 else if(randomNumber2>randomNumber1){

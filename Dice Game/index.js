@@ -6,10 +6,10 @@ var randomDiceImage = "dice"+randomNumber1+".png";      // dice1.png - dice6.png
 
 var randomImageSource = "images/"+randomDiceImage;     //images/dice1.png - images/dice6.png
 
-var imageleft = document.querySelectorAll("img")[0];   // 
-
-imageleft.setAttribute("src", randomImageSource);
-
+var imageleft = document.querySelectorAll("img")[0];   // Here If you see in html file, we got two "img" classes one for player 1 and other for player 2, in order to
+                                                      // first fetch img class for player1, so that we could fetch that using indexing [0], and using "setattribute()"
+                                                      // to change from standard selection of an image to an image that changes accordingly to the random number generated
+imageleft.setAttribute("src", randomImageSource);     // using logic built in "randomImageSource".
 
 
 var randomNumber2 = Math.floor(Math.random() * 6) + 1;

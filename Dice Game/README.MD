@@ -6,10 +6,14 @@
 1. DOM Manipulation
 2. SetAttribute() (JS method)
 3. innerHTML concept
-4. creation of external JS file
+4. creation of external JS file 
 5. creation of random number using (Math.random())
 6. queryselector()
-7. Also HTML and CSS format writings
+7. Also HTML and CSS format writings 
+
+## The output screenshot looks like this
+
+![Image](DiceGame.png)
 
 ## If you see in "index.js" file, line 7, 22 & 25, we notice we used a similar function but serves different purpose, "querySelectorAll & querySelector", let's understand that
 

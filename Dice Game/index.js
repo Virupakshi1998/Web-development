@@ -21,9 +21,9 @@ var imageright = document.querySelectorAll("img")[1];
 
 imageright.setAttribute("src", randomImageSource2);
 
-if(randomNumber1 > randomNumber2){                             // 
-    document.querySelector("h1").innerHTML = "Player 1 wins!";
-}
+if(randomNumber1 > randomNumber2){                               // here using "if" conditions, we are trying to change the html content, saying If player 1 dice 
+     document.querySelector("h1").innerHTML = "Player 1 wins!";  //number is greater, print or show as "Player1 wins", same applies in player 2 case, so in that 
+}                                                                // purpose we used if condition here.
 else if(randomNumber2>randomNumber1){
     document.querySelector("h1").innerHTML = "Player 2 wins!";
 }

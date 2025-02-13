@@ -13,7 +13,9 @@
 
 ## The output screenshot looks like this
 
-![](DiceGame.png)
+![alt text](DiceGame.png)
+
+To explain a little bit about this small project, for every time we refresh the site, the dice numbers on two images(left and right dice images) changes, and accordingly the above text changes saying "who is the winner".
 
 ## If you see in "index.js" file, line 7, 22 & 25, we notice we used a similar function but serves different purpose, "querySelectorAll & querySelector", let's understand that
 

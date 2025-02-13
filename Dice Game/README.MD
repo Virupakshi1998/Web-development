@@ -11,3 +11,14 @@
 6. queryselector()
 7. Also HTML and CSS format writings
 
+## If you see in "index.js" file, line 7, 22 & 25, we notice we used a similar function but serves different purpose, "querySelectorAll & querySelector", let's understand that
+
+## querySelectorAll vs querySelector
+
+There are two types of querySelectors, that are querySelectorAll and querySelector
+
+querySelectorAll is going to return one element, whereas querySelectorAll, returns as many elements as match the selection attempt, and these are returned to us as a iterable list that we can loop through.
+
+I suggest this youtube video: [Link to the video](https://youtu.be/hHB7v4Za6Eo?si=AIbS4IpnzGgFYIdZ)
+This video clearly explained, how this queryselector methods are different from standard things like using getelementbyid, getelementbyclass, getelementbytagname. How these two types in queryselectors, "querySelectorAll & querySelector" are used and how they are differentiated with sharing multiple different cases and explained where to use what and how to apply.
+

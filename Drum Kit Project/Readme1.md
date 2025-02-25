@@ -3,7 +3,7 @@ In this process learning more about the Document Object Model and some of the mo
 
 ## Topics covered in building this Drum Kit Sample project are
 
-1. Event Listeners:
+1. ### Event Listeners:
     
 document.addEventListener("keydown", function(event){
 

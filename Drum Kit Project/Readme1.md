@@ -1,6 +1,12 @@
 ## Built a Drum Kit website
 In this process learning more about the Document Object Model and some of the more advanced parts of JavaScript.
 
+## Drum Kit Website Sample overview screen recorded video
+https://github.com/user-attachments/assets/f0627654-ac6d-456e-a6f8-eda91544d842
+
+### Overview of this website: 
+"You can either click on the respective letters or use the keypad to select them. This will trigger a subtle shadow effect upon selection and play the corresponding sound, which is linked to the musical instrument assigned to each letter."
+
 ## Topics covered in building this Drum Kit Sample project are
 
 ### 1. Event Listeners:
@@ -25,3 +31,8 @@ These are the functions that are passed as inputs. Which is actually called as c
 ### 8. Timeout function:
 
 Understood something called "timeout function", used in situation where when we are trying to create a shadow on drums clicked, those earlier clicked drums click shadow was not coming back to its normal state, its still in shadow, we don't want that. So that by assigning a small delay of say 2 or 4 seconds something, it needs to come back normally, for which we use Time out function in javascript.
+
+
+
+
+

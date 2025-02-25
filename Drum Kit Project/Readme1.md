@@ -3,14 +3,14 @@ In this process learning more about the Document Object Model and some of the mo
 
 ## Topics covered in building this Drum Kit Sample project are
 
-1. ### Event Listeners:
+### 1. Event Listeners:
     
 document.addEventListener("keydown", function(event){
 
 Here, If you see this event listener which we used in our JS code, for recognizing the key press through keyboard.
 Let's quicky break this, once event listener checks through the whole document, keydown here rocognizes the respective key press on keyboard, and once that is found, we perform necessary action later once key press is triggered, that's how this above line works.
 
-2. Explored the concept of how to play sounds on a website.
+# 2. Explored the concept of how to play sounds on a website.
 3. Explored and got deeper understanding on Javascript objects, Constructor functions, Initializing objects and methods.
 4. I understand how we can add functions as parameters, and how we could use functions as callbacks.
 5. Higher order function:

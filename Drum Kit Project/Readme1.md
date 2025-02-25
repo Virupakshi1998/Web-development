@@ -1,6 +1,9 @@
 ## Built a Drum Kit website
 In this process learning more about the Document Object Model and some of the more advanced parts of JavaScript.
 
+## Drum Kit Website Sample overview screen recorded video
+https://github.com/user-attachments/assets/f0627654-ac6d-456e-a6f8-eda91544d842
+
 ## Topics covered in building this Drum Kit Sample project are
 
 ### 1. Event Listeners:
@@ -28,5 +31,5 @@ Understood something called "timeout function", used in situation where when we 
 
 
 
-https://github.com/user-attachments/assets/f0627654-ac6d-456e-a6f8-eda91544d842
+
 

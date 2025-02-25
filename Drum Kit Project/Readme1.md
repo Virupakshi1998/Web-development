@@ -4,6 +4,9 @@ In this process learning more about the Document Object Model and some of the mo
 ## Drum Kit Website Sample overview screen recorded video
 https://github.com/user-attachments/assets/f0627654-ac6d-456e-a6f8-eda91544d842
 
+### Overview of this website: 
+"You can either click on the respective letters or use the keypad to select them. This will trigger a subtle shadow effect upon selection and play the corresponding sound, which is linked to the musical instrument assigned to each letter."
+
 ## Topics covered in building this Drum Kit Sample project are
 
 ### 1. Event Listeners:

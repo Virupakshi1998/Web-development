@@ -15,7 +15,7 @@ Let's quicky break this, once event listener checks through the whole document, 
 ### 4. I understand how we can add functions as parameters, and how we could use functions as callbacks.
 ### 5. Higher order function:
 
-    Learnt about higher order function, which means the functions, that's able to take functions as inputs.
+Learnt about higher order function, which means the functions, that's able to take functions as inputs.
 
 ### 6. Call back function:
 These are the functions that are passed as inputs. Which is actually called as callback functions because it allows us to wait for something to finish.
@@ -24,4 +24,4 @@ These are the functions that are passed as inputs. Which is actually called as c
 
 ### 8. Timeout function:
 
-.    Understood something called "timeout function", used in situation where when we are trying to create a shadow on drums clicked, those earlier clicked drums click shadow was not coming back to its normal state, its still in shadow, we don't want that. So that by assigning a small delay of say 2 or 4 seconds something, it needs to come back normally, for which we use Time out function in javascript.
+Understood something called "timeout function", used in situation where when we are trying to create a shadow on drums clicked, those earlier clicked drums click shadow was not coming back to its normal state, its still in shadow, we don't want that. So that by assigning a small delay of say 2 or 4 seconds something, it needs to come back normally, for which we use Time out function in javascript.

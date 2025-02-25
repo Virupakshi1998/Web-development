@@ -25,3 +25,8 @@ These are the functions that are passed as inputs. Which is actually called as c
 ### 8. Timeout function:
 
 Understood something called "timeout function", used in situation where when we are trying to create a shadow on drums clicked, those earlier clicked drums click shadow was not coming back to its normal state, its still in shadow, we don't want that. So that by assigning a small delay of say 2 or 4 seconds something, it needs to come back normally, for which we use Time out function in javascript.
+
+
+
+https://github.com/user-attachments/assets/f0627654-ac6d-456e-a6f8-eda91544d842
+
